@@ -10,30 +10,30 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": " Powered by DARK-SHAN-MD",
+          "botName": " Powered by DARK-Hat-MD",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir",
-          "pic1": "https://telegra.ph/file/8c4247c94ad072eb079ff.jpg",
-          "pic2": "https://telegra.ph/file/3865049cd5b848323e1ca.jpg",
-          "pic3": "https://telegra.ph/file/8c4247c94ad072eb079ff.jpg",
-          "pic4": "https://telegra.ph/file/3865049cd5b848323e1ca.jpg",
-          "pic5": "https://telegra.ph/file/8c4247c94ad072eb079ff.jpg",
-          "pic6": "https://telegra.ph/file/3865049cd5b848323e1ca.jpg",
-          "pic7": "https://telegra.ph/file/8c4247c94ad072eb079ff.jpg",
+          "pic1": "https://i.ibb.co/q51KBQN/Screenshot-20230109-193833-Chrome.jpg",
+          "pic2": "https://i.ibb.co/Vjd8SGk/Screenshot-20240309-231658-HTTP-Injector.jpg",
+          "pic3": "https://i.ibb.co/q51KBQN/Screenshot-20230109-193833-Chrome.jpg",
+          "pic4": "https://i.ibb.co/HHXskC4/Screenshot-20240301-201714-Chrome.jpg",
+          "pic5": "https://i.ibb.co/q51KBQN/Screenshot-20230109-193833-Chrome.jpg",
+          "pic6": "https://i.ibb.co/3y22mff/Screenshot-20230913-130508-Whats-App.jpg",
+          "pic7": "https://i.ibb.co/0nBGQBx/Screenshot-20230607-212930-Chrome.jpg",  
            "greet" : "Sir",
          "dotbody" : "I'm Alive.",
           "promote": "Admin Role Given to my Darling",
           "pmallow": "*Hii,This is Secktor*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by DARK-SHAN-MD_",
-          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by DARK-SHAN-MD*",
-          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by DARK-SHAN-MD", 
-          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by DARK-SHAN-MD_",
+          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by DARK-Hat-MD_",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by DARK-Hat-MD*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by DARK-Hat-MD", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by DARK-Hat-MD_",
           "demote": "Uhh,Admin Role Taken back",
           "antlink": "Link Detected.\n*Good Bye Sir*",
-          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by DARK-SHAN-MD*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by DARK-Hat-MD*",
           "mention": " Please mention any user Sir",
-          "title": "𝙳𝙰𝚁𝙺 𝚂𝙷𝙰𝙽 𝙼𝙳",
-          "footer": "𝙳𝙰𝚁𝙺 𝚂𝙷𝙰𝙽 𝙼𝙳",
+          "title": "𝙳𝙰𝚁𝙺-Hat-𝙼𝙳",
+          "footer": "𝙳𝙰𝚁𝙺-Hat-𝙼𝙳",
           "by": "Made by: *CitelVoid*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✅",
@@ -50,6 +50,10 @@
       },
       "error": {
           "text": "*Uhh,Got an Error*"
+      }
+  }
+}
+hh,Got an Error*"
       }
   }
 }
