@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://youtube.com/@darkshanyt1">
-    <img alt=Support height="350" src="https://telegra.ph/file/8c4247c94ad072eb079ff.jpg"> 
+    <img alt=Support height="350" src="https://i.ibb.co/0nBGQBx/Screenshot-20230607-212930-Chrome.jpg"> 
     </p>
 
 <h1 align="center">    DARK SHAN MD WHATSAPP BOT
